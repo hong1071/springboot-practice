@@ -42,6 +42,7 @@
 	 <build>
 		<finalName>myapplication</finalName>
 		<plugins>
+			<!-- 스프링 부트 메이븐 플러그인 -->
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
